@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🎉 prueba1
 
-<!--
-**msocio/msocio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a **prueba1**! 😄  
+Este es **mi primer proyecto subido a GitHub** y estoy muy emocionado de compartirlo. 🚀
 
-Here are some ideas to get you started:
+## 📘 Descripción
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este proyecto fue creado como parte de mi proceso de aprendizaje y práctica con Git y GitHub.  
+Aquí estoy comenzando mi camino en el mundo del desarrollo y el control de versiones. ¡Vamos con todo! 💪
+
+## 🧰 Tecnologías usadas
+
+- Markdown para el README
+- Git para control de versiones
+- GitHub para alojamiento del repositorio
+
+## 📂 Estructura inicial
+
+
